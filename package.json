@@ -1,6 +1,6 @@
 {
   "name": "autocompiler-pug-jade",
-  "version": "0.8.3",
+  "version": "1.0.0",
   "description": "Atom extension that autocompiles jade and Pug (The new renamed Jade). - Built on top of jade-autocompile Atom extension by Manuel Rueda",
   "main": "./lib/autocompiler-pug-jade.js",
   "engines": {
