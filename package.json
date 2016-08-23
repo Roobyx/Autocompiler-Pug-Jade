@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ManRueda/jade-autocompile.git"
+    "url": "git+https://github.com/Roobyx/Autocompiler-Pug-Jade"
   },
   "keywords": [
 	"pug"
@@ -26,9 +26,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ManRueda/jade-autocompile/issues"
+    "url": "https://github.com/Roobyx/Autocompiler-Pug-Jade/issues"
   },
-  "homepage": "https://github.com/ManRueda/jade-autocompile#readme",
+  "homepage": "https://github.com/Roobyx/Autocompiler-Pug-Jade#readme",
   "dependencies": {
     "atom-space-pen-views": "2.1.0",
     "domify": "1.4.0",
