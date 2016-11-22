@@ -2,7 +2,7 @@
 
 Compile .PUG and .JADE files directly in Atom
 
-[Atom package site](https://atom.io/packages/jade-autocompile)
+Find the Atom package here : https://atom.io/packages/autocompiler-pug-jade
 
 ## Be aweare that the PUG compiling is still work in progress and some features might not work
 
