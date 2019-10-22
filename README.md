@@ -1,3 +1,5 @@
+## The project is no longer being monitored or updated
+
 # Autocompiler-Pug-Jade
 
 Compile .PUG and .JADE files directly in Atom
