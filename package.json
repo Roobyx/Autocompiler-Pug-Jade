@@ -1365,7 +1365,7 @@
           "domify": "1.4.0",
           "jade": "1.11.0",
           "loophole": "1.1.0",
-          "merge": "1.2.0"
+          "merge": "1.2.1"
         }
       },
       {
@@ -1961,7 +1961,7 @@
     "domify": "1.4.0",
     "jade": "1.11.0",
     "loophole": "1.1.0",
-    "merge": "1.2.0"
+    "merge": "1.2.1"
   },
   "description": "Atom extension that autocompiles jade and Pug (The new renamed Jade). - Built on top of jade-autocompile Atom extension by Manuel Rueda",
   "devDependencies": {},
